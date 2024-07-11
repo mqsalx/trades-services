@@ -1,0 +1,19 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "cSpell.words": [
+        "adiciona",
+        "alurabank",
+        "cria",
+        "Indata",
+        "montante",
+        "Negociacao",
+        "quantidade",
+        "SABADO",
+        "vezes"
+    ],
+    "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#ffffff",
+    "terminalCursor.foreground": "#ffffff"
+    },
+
+}
